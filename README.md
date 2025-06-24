@@ -1,6 +1,6 @@
-# CineMatch
+# Cine Match
 
-CineMatch is an AI-powered movie recommendation web application that uses advanced NLP algorithms (BM25, TF-IDF, Bag of Words, and BERT) to suggest movies based on your input. The project is split into a React frontend and a Node.js/Express backend.
+Cine Match is an AI-powered movie recommendation web application that uses advanced NLP algorithms (BM25, TF-IDF, Bag of Words, and BERT) to suggest movies based on your input. The project is split into a React frontend and a Node.js/Express backend.
 
 ---
 
@@ -107,8 +107,9 @@ npm run dev
 ---
 
 ## Authors
-- Alluri Lakshman Narendra
 - Attunuri Praneeth Reddy
+- Alluri Lakshman Narendra
+
 
 ---
 
