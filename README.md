@@ -108,7 +108,7 @@ npm run dev
 
 ## Authors
 - Attunuri Praneeth Reddy
-- Alluri Lakshman Narendra
+
 
 
 ---
